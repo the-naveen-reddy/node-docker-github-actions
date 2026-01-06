@@ -1,10 +1,9 @@
-json 
-
 {
-  "name": "github-actions-demo",
+  "name": "node-docker-github-actions",
   "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Tests passed successfully\""
+    "start": "node index.js"
   }
 }
 
