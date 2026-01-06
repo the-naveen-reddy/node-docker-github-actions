@@ -1,0 +1,11 @@
+# package.json 
+
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Tests passed successfully\""
+  }
+}
+
+✅ Result: Simple Node app with test command
