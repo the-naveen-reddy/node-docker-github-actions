@@ -1,4 +1,4 @@
-# package.json 
+json 
 
 {
   "name": "github-actions-demo",
@@ -8,4 +8,4 @@
   }
 }
 
- ✅ Result: Simple Node app with test command
+
